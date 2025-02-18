@@ -1,1 +1,180 @@
+MAIN CODE:-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML TASK</title>
+</head>
+<body>
+    <h1>MYSELF</h1>
+    <p>my name is <b>DEVANSH JAIN</b> i am learning new things at <i> agile tribers </i> , <a href="https://www.linkedin.com/in/devansh-jain-06ab84313" target="_blank">link to linkedin </a></p>
+    <h1> i am studying in vit vellore</h1>
+    <h2> with a branch of CSE ai and de </h2>
+    <h3> i am from surat </h3>
+    <h4> i am passionate about singing and coding </h4>
+    <br>
+    <h1>  Here are the list types we use in html: </h1>
+     <hr>
+     <br>
+    <h3>ordered list</h3>
+    <ol>
+        <li> First term</li>
+        <li> second term</li>
+        <li> third term</li>
+        <li> fourth term</li>
+        <li> fifth term</li>
+    </ol>
+    <hr>
+    <h3>unordered list</h3>
+    <ul>
+        <li> apple</li>
+        <li> banana</li>
+        <li> orange</li>
+        <li> grapes</li>
+        <li> watermelon</li>
+    </ul>
+    <br>
+<h1>using hyperlinks in HTML:</h1>
+<hr>
+<br>
+<h5>Click the link below to visit Amazon Website: </h5>
+<a href="https://www.amazon.in/" target="_blank">Amazon Website</a>
+<h5>Click the link below to visit Flipkart Website: </h5>
+<a href="https://www.flipkart.com/" target="_blank">Flipkart Website</a>
+<h5>Click the link below to visit Meesho Website: </h5>
+<a href="https://meesho.com/" target="_blank">Meesho Website</a>
+<br>
+<h4>LINK TO THE WEBSITE:- </h4>
+<a href="http://127.0.0.1:5500/newwebsite.html" target="_blank">CICK TO GO TO FABULOUS RETAIL Shop</a>
+</html>
+
+FABULOUS RETAIL Shop CODE:-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            webiste 
+        </title>
+    </head>
+    <body>
+        <h1>Welcome to Fabulous Retail shop</h1>
+        <p>your one-stop destination for trendy fashion and accessories<hr></p>
+        <br>
+        <ul>
+            <li><a href=" http://127.0.0.1:5500/aboutus.html" target="_blank">About us</a></li>
+            <li><a href="http://127.0.0.1:5500/our_products.html" target="_blank">Our Products </a></li>
+            <li><a href="http://127.0.0.1:5500/contacus.html" target="_blank">Contact us</a></li>
+        </ul>
+        <h1><b> > About Us</b></h1>
+        <p>we are leading fashion retailer that offers a wide range of stylish clothing, footwear , and accessories for men and women.<br> with a passion for fashion and a commitment to quality,we strive to provide the latest trends at affordable prices</p>
+        <hr>
+        <h1>> Our Products </h1>
+    <h4>~ clothing</h4>
+    <ul>
+        <li>Trendy Dresses</li>
+        <li>casual T-shirt </li>
+        <li>Formal Suits</li>
+        <li>Cozy Sweaters </li>
+    </ul>
+    <h4>~ Footwear </h4>
+    <ul>
+        <li>Sneakers</li>
+        <li>High Heels</li>
+        <li>Boots</li>
+        <li>sandals</li>
+    </ul>
+    <h4>~ Accessories</h4>
+    <ul>
+        <li>stylish Watches </li>
+        <li>chic Handbags</li>
+        <li>Sunglasses</li>
+        <li>Statement Jewelry</li>
+    </ul>
+    <hr>
+    <h1>> Contact Us</h1>
+        <p><i>Feel free to get in touch with us</i></p>
+        <p> 
+            <i>Email:</i> <a href="mailto:info@fabulousretailshop.com">info@fabulousretailshop.com</a>
+            <br>
+            <i>phone:123-456-7890</i>
+            <br>
+            <i>Address: 123 Fashion street, Cityville</i>
+            <hr>
+            2023 Fabulous Retail Shop. All rights reserved.
+    </p>
+    </body>
+</html>
+
+ABOUT US CODE:-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            About Us
+        </title>
+    </head>
+    <body>
+        <h1> > About Us </h1>
+        <p>we are leading fashion retailer that offers a wide range of stylish clothing, footwear , and accessories for men and women.<br> with a passion for fashion and a commitment to quality,we strive to provide the latest trends at affordable prices </p>
+
+    </body>
+</html> 
+
+PRODUCT CODE:-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            our Products
+        </title>
+    </head>
+    <h1>> Our Products </h1>
+    <h4>~ clothing</h4>
+    <ul>
+        <li>Trendy Dresses</li>
+        <li>casual T-shirt </li>
+        <li>Formal Suits</li>
+        <li>Cozy Sweaters </li>
+    </ul>
+    <h4>~ Footwear </h4>
+    <ul>
+        <li>Sneakers</li>
+        <li>High Heels</li>
+        <li>Boots</li>
+        <li>sandals</li>
+    </ul>
+    <h4>~ Accessories</h4>
+    <ul>
+        <li>stylish Watches </li>
+        <li>chic Handbags</li>
+        <li>Sunglasses</li>
+        <li>Statement Jewelry</li>
+    </ul>
+    <hr>
+</html> 
+
+CONTACT US:-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            contact us
+        </title>
+    </head>
+    <body>
+        <h1>> Contact Us</h1>
+        <p><i>Feel free to get in touch with us</i></p>
+        <p> 
+            <i>Email:</i> <a href="mailto:info@fabulousretailshop.com">info@fabulousretailshop.com</a>
+            <br>
+            <i>phone:123-456-7890</i>
+            <br>
+            <i>Address: 123 Fashion street, Cityville</i>
+            <hr>
+            2023 Fabulous Retail Shop. All rights reserved.
+    </p>
+
+    </body>
+</html> 
+
+
 
